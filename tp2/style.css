@@ -1,0 +1,27 @@
+
+body 
+{
+	background-color: gray;	
+}
+form
+{
+	background-color: white;
+}
+#person
+{
+	background-color: white;
+}
+#error
+{ 
+background-color: gray;
+padding:5px;
+border: 1px;
+}
+#resultat
+{ 
+background-color: gray;
+padding:5px;
+border: 1px;
+color: white;
+}
+
